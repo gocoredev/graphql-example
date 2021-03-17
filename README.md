@@ -1,8 +1,8 @@
-## Simple boilerplait of MongoDB + GraphQL
+## Simple boilerplate of MongoDB + GraphQL
 
 ### Use where you want
 
-- Easy to manage!
+>> Easy to manage!
 
 ## Comands to run:
 
