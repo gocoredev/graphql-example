@@ -2,7 +2,7 @@
 
 ### Use where you want
 
->> Easy to manage!
+> Easy to manage!
 
 ## Comands to run:
 
