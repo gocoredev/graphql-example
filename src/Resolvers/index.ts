@@ -15,8 +15,7 @@ export = {
         users: ()=>{
             return User.find();
         },
-        // @ts-ignore
-        user: (_, { id })=>{
+        user: (context: any, { id }:any)=>{
             console.log(id)
             return User.find()
         },
